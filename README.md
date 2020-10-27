@@ -1,10 +1,8 @@
-# Masonry
+Masonry type design, a simple design with which they could be cooked for future projects, the intention is to give an idea of how they could do it and save time.
 
-Diseño tipo Masonry, un diseño simple con el cual podrían guisarse para futuros proyectos, la intención es dar una idea de como podrían realizarlo y ahorrar tiempo.
+The design is not fully responsive, as indicated above is to get an idea of the design and code, the media queries should be written.
 
-El diseño no es totalmente responsivo, por como se indica anteriormente es para tener una idea del diseño y codigo, los media queries deberan ser escritos a gusto.
-
-Vista Previa: https://juanlugodegouveia.github.io/Masonry/
+Preview: https://juanlugodegouveia.github.io/Masonry/
 
 ## Copyright
 
